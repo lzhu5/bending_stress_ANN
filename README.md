@@ -1,0 +1,1 @@
+# bending_stress_ANN
