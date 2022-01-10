@@ -1,1 +1,1 @@
-# bending_stress_ANN
+# bending stress ANN
