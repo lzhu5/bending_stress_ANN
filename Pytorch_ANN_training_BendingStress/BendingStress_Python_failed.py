@@ -22,7 +22,7 @@ torch.manual_seed(123)    # reproducible
 # Prepare data
 # =============================================================================
 ## load data
-data = scipy.io.loadmat('./DataBase_H2gT2_h2gT2/database.mat')
+data = scipy.io.loadmat('./database.mat')
 feature_data = data['input_database']
 label_data = data['output_database']
 
